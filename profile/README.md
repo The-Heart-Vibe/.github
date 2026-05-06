@@ -2,10 +2,6 @@
 
 We build product fast, with small teams and AI-assisted development.
 
-## What we work on
-
-[1-2 sentences about the org's mission or product space. Edit me with real content.]
-
 ## How we work
 
 - **Trunk-based development** — short-lived feature branches, fast review cycles
